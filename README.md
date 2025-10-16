@@ -13,6 +13,7 @@ cd Auto-creat-fb
 
 
 Install Python modules:
+
 pip install requests bs4 fakeuseragent faker fakeemail httpx httplib2 mechanize pycurl rich
 
 
